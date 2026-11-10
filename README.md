@@ -4,7 +4,7 @@
 
 ![Build](https://github.com/cloudlaag-dev/DiscordChatBridge/actions/workflows/build.yml/badge.svg)
 
-](https://github.com/cloudlaag-dev/DiscordChatBridge/actions/workflows/build.yml) [
+](https://github.com/kingsystem11/DiscordChatBridge/actions/workflows/build.yml) [
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
