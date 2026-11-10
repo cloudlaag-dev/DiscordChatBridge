@@ -2,15 +2,13 @@
 
 [
 
-![Build](https://github.com/cloudlaag-dev/DiscordChatBridge/actions/workflows/build.yml/badge.svg)
-
-](https://github.com/kingsystem11/DiscordChatBridge/actions/workflows/build.yml) [
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ](LICENSE) 
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.13%2B-62B47A)
+
+
 
 Forward your Minecraft server chat to a Discord channel in real time. Staff and community members can follow in-game conversations directly from Discord, without joining the server.
 
@@ -22,15 +20,9 @@ Forward your Minecraft server chat to a Discord channel in real time. Staff and 
 - Mentions are disabled by default, so players cannot ping `@everyone` or roles
 - Works on Spigot and Paper 1.13 and newer
 
-## Requirements
-
-- Java 8 or newer
-- Spigot or Paper server, version 1.13 or newer
-- A Discord channel where you can create webhooks
-
 ## Installation
 
-1. Download `DiscordChatBridge.jar` from the [Releases](../../releases) page, or build it yourself (see below).
+1. Download `DiscordChatBridge.jar` from the Releases page, or build it yourself.
 2. Place the jar in your server's `plugins/` folder.
 3. Start the server once so the config file is generated.
 4. Create a webhook in your Discord channel: **Channel Settings > Integrations > Webhooks > New Webhook**, then copy the URL.
