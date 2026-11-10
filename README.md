@@ -1,10 +1,10 @@
 # DiscordChatBridge
 
-[
+
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-](LICENSE) 
+(LICENSE) 
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.13%2B-62B47A)
 
