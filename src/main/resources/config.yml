@@ -1,0 +1,12 @@
+# DiscordChatBridge configuration
+# Made by KingSystem11
+
+# Discord channel webhook URL (Channel Settings > Integrations > Webhooks)
+# Keep this URL private. Anyone with it can post to your channel.
+webhook-url: "https://discord.com/api/webhooks/XXXX/YYYY"
+
+# Message format sent to Discord. Placeholders: {player}, {message}
+message-format: "{message}"
+
+# Print a console message when the plugin starts
+debug: false
