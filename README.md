@@ -2,19 +2,15 @@
 
 [
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Build](https://github.com/cloudlaag-dev/DiscordChatBridge/actions/workflows/build.yml/badge.svg)
 
-](#)
-[
+](https://github.com/cloudlaag-dev/DiscordChatBridge/actions/workflows/build.yml) [
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-](LICENSE)
-[
+](LICENSE) 
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.13%2B-62B47A)
-
-](#)
 
 Forward your Minecraft server chat to a Discord channel in real time. Staff and community members can follow in-game conversations directly from Discord, without joining the server.
 
