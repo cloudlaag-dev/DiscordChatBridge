@@ -1,4 +1,3 @@
-.
 # DiscordChatBridge
 
 [
@@ -42,10 +41,6 @@ Forward your Minecraft server chat to a Discord channel in real time. Staff and 
 5. Paste the URL into `plugins/DiscordChatBridge/config.yml`:
 
 ```yaml
-webhook-url: "https://discord.com/api/webhooks/XXXX/YYYY"
-Restart the server.
-Configuration
-# Discord webhook URL
 webhook-url: "https://discord.com/api/webhooks/XXXX/YYYY"
 
 # Message format. Placeholders: {player}, {message}
